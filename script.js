@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Mock data for sock products
     const sockProducts = [
-        { id: 1, name: "Cotton Socks", price: 10.99 },
-        { id: 2, name: "Wool Socks", price: 14.99 },
-        { id: 3, name: "Sports Socks", price: 12.99 },
+        { id: 1, name: "Drew Socks", price: 15.99 },
+        { id: 2, name: "Travis Scott Socks", price: 20.00 },
+        { id: 3, name: "OFWGKTA Socks", price: 19.99 },
     ];
 
     const productListElement = document.getElementById("product-list");
